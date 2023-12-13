@@ -708,6 +708,9 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2023-03-20" >}}
 
+{{< desktop-install win=true version="4.17.1" build_path="/101757/" >}}
+
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -724,6 +727,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.17.0
 
 {{< release-date date="2023-02-27" >}}
+
+{{< desktop-install all=true version="4.17.0" build_path="/99724/" >}}
 
 ### New
 
@@ -804,6 +809,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2023-01-30" >}}
 
+{{< desktop-install win=true version="4.16.3" build_path="/96739/" >}}
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -814,6 +821,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.16.2
 
 {{< release-date date="2023-01-19" >}}
+
+{{< desktop-install all=true version="4.16.2" build_path="/95914/" >}}
 
 ### Bug fixes and enhancements
 
@@ -834,6 +843,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2023-01-13" >}}
 
+{{< desktop-install all=true version="4.16.1" build_path="/95567/" >}}
+
 ### Bug fixes and enhancements
 
 #### For all platforms
@@ -843,6 +854,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.16.0
 
 {{< release-date date="2023-01-12" >}}
+
+{{< desktop-install all=true version="4.16.0" build_path="/95345/" >}}
 
 ### New
 
@@ -906,6 +919,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-12-01" >}}
 
+{{< desktop-install all=true version="4.15.0" build_path="/93002/" >}}
+
 ### New
 
 - Substantial performance improvements for macOS users with the option of enabling the new VirtioFS file sharing technology. Available for macOS 12.5 and above.
@@ -957,6 +972,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-11-17" >}}
 
+{{< desktop-install all=true version="4.14.1" build_path="/91661/" >}}
+
 ### Bug fixes and enhancements
 
 #### For all platforms
@@ -971,6 +988,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.14.0
 
 {{< release-date date="2022-11-10" >}}
+
+{{< desktop-install all=true version="4.14.0" build_path="/91374/" >}}
 
 ### New
 
@@ -1031,6 +1050,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-10-31" >}}
 
+{{< desktop-install all=true version="4.13.1" build_path="/90346/" >}}
+
 ### Updates
 
 - [Docker Compose v2.12.1](https://github.com/docker/compose/releases/tag/v2.12.1)
@@ -1055,6 +1076,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.13.0
 
 {{< release-date date="2022-10-19" >}}
+
+{{< desktop-install all=true version="4.13.0" build_path="/89412/" >}}
 
 ### New
 
@@ -1120,6 +1143,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.12.0
 
 {{< release-date date="2022-09-01" >}}
+
+{{< desktop-install all=true version="4.12.0" build_path="/85629/" >}}
 
 ### New
 
@@ -1199,6 +1224,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-08-05" >}}
 
+{{< desktop-install all=true version="4.11.1" build_path="/84025/" >}}
+
 ### Bug fixes and enhancements
 
 #### For all platforms
@@ -1212,6 +1239,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.11.0
 
 {{< release-date date="2022-07-28" >}}
+
+{{< desktop-install all=true version="4.11.0" build_path="/83626/" >}}
 
 ### New
 
@@ -1269,6 +1298,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-07-05" >}}
 
+{{< desktop-install all=true version="4.10.1" build_path="/82475/" >}}
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -1282,6 +1313,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.10.0
 
 {{< release-date date="2022-06-30" >}}
+
+{{< desktop-install all=true version="4.10.0" build_path="/82025/" >}}
 
 ### New
 
@@ -1363,6 +1396,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-06-02" >}}
 
+{{< desktop-install all=true version="4.9.0" build_path="/TODO/" >}}
+
 ### New
 
 - Added additional guides on the homepage for: Elasticsearch, MariaDB, Memcached, MySQL, RabbitMQ and Ubuntu.
@@ -1411,6 +1446,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-05-18" >}}
 
+{{< desktop-install all=true version="4.8.2" build_path="/79419/" >}}
+
 ### Updates
 
 - [Compose v2.5.1](https://github.com/docker/compose/releases/tag/v2.5.1)
@@ -1430,6 +1467,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.8.1
 
 {{< release-date date="2022-05-09" >}}
+
+{{< desktop-install all=true version="4.8.1" build_path="/78998/" >}}
 
 ### New
 
@@ -1451,6 +1490,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.8.0
 
 {{< release-date date="2022-05-06" >}}
+
+{{< desktop-install all=true version="4.8.0" build_path="/78933/" >}}
 
 ### New
 
@@ -1512,6 +1553,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-04-19" >}}
 
+{{< desktop-install all=true version="4.7.1" build_path="/77678/" >}}
+
 ### Bug fixes and enhancements
 
 #### For all platforms
@@ -1526,6 +1569,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.7.0
 
 {{< release-date date="2022-04-07" >}}
+
+{{< desktop-install all=true version="4.7.0" build_path="/77141/" >}}
 
 ### New
 
@@ -1570,6 +1615,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-03-22" >}}
 
+{{< desktop-install all=true version="4.6.1" build_path="/76265/" >}}
+
 ### Updates
 
 - [Buildx 0.8.1](https://github.com/docker/buildx/releases/tag/v0.8.1)
@@ -1583,6 +1630,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 ## 4.6.0
 
 {{< release-date date="2022-03-14" >}}
+
+{{< desktop-install all=true version="4.6.0" build_path="/75818/" >}}
 
 ### New
 
@@ -1654,6 +1703,8 @@ For frequently asked questions about Docker Desktop releases, see [FAQs](faqs/re
 
 {{< release-date date="2022-02-15" >}}
 
+{{< desktop-install all=true version="4.5.1" build_path="/74721/" >}}
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -1667,6 +1718,8 @@ Alternatively, you can edit the Docker Desktop settings file located at `%APPDAT
 ## 4.5.0
 
 {{< release-date date="2022-02-10" >}}
+
+{{< desktop-install all=true version="4.5.0" build_path="/74594/" >}}
 
 ### New
 
@@ -1716,6 +1769,8 @@ Installing Docker Desktop 4.5.0 from scratch has a bug which defaults Docker Des
 
 {{< release-date date="2022-01-24" >}}
 
+{{< desktop-install all=true version="4.4.4" build_path="/73704/" >}}
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -1734,6 +1789,8 @@ Installing Docker Desktop 4.5.0 from scratch has a bug which defaults Docker Des
 
 {{< release-date date="2022-01-14" >}}
 
+{{< desktop-install all=true version="4.4.3" build_path="/73365/" >}}
+
 ### Bug fixes and enhancements
 
 #### For Windows
@@ -1751,6 +1808,8 @@ Installing Docker Desktop 4.5.0 from scratch has a bug which defaults Docker Des
 ## 4.4.2
 
 {{< release-date date="22-01-13" >}}
+
+{{< desktop-install all=true version="4.4.2" build_path="/73305/" >}}
 
 ### New
 
@@ -1805,6 +1864,8 @@ This only affects users if they are on Docker Desktop 4.3.0, 4.3.1 and the user 
 
 {{< release-date date="2021-12-21" >}}
 
+{{< desktop-install all=true version="4.3.2" build_path="/72729/" >}}
+
 ### Security
 
 - Fixed [CVE-2021-45449](../security/index.md#cve-2021-45449) that affects users currently on Docker Desktop version 4.3.0 or 4.3.1.
@@ -1830,6 +1891,8 @@ CVE-2021-44228](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/).
 
 {{< release-date date="2021-12-11" >}}
 
+{{< desktop-install all=true version="4.3.1" build_path="/72247/" >}}
+
 ### Upgrades
 
 [docker scan v0.11.0](https://github.com/docker/scan-cli-plugin/releases/tag/v0.11.0)
@@ -1848,6 +1911,8 @@ CVE-2021-44228](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/).
 ## 4.3.0
 
 {{< release-date date="2021-12-02" >}}
+
+{{< desktop-install all=true version="4.3.0" build_path="/71786/" >}}
 
 ### Upgrades
 
@@ -1895,6 +1960,8 @@ actual memory usage. See
 
 {{< release-date date="2021-11-09" >}}
 
+{{< desktop-install all=true version="4.2.0" build_path="/70708/" >}}
+
 ### New
 
 **Pause/Resume**: You can now pause your Docker Desktop session when you are not actively using it and save CPU resources on your machine.
@@ -1941,6 +2008,8 @@ actual memory usage. See
 
 {{< release-date date="2021-10-12" >}}
 
+{{< desktop-install all=true version="4.1.1" build_path="/69879/" >}}
+
 ### Bug fixes and minor changes
 
 #### For Mac
@@ -1959,6 +2028,8 @@ actual memory usage. See
 ## 4.1.0
 
 {{< release-date date="2021-09-30" >}}
+
+{{< desktop-install all=true version="4.1.0" build_path="/69386/" >}}
 
 ### New
 
@@ -1999,6 +2070,8 @@ Docker Desktop may fail to start when upgrading to 4.1.0 on some WSL-based distr
 
 {{< release-date date="2021-09-13" >}}
 
+{{< desktop-install all=true version="4.0.1" build_path="/68347/" >}}
+
 ### Upgrades
 
 - [Compose V2 RC3](https://github.com/docker/compose/releases/tag/v2.0.0-rc.3)
@@ -2019,6 +2092,8 @@ Docker Desktop may fail to start when upgrading to 4.1.0 on some WSL-based distr
 ## 4.0.0
 
 {{< release-date date="2021-08-31" >}}
+
+{{< desktop-install all=true version="4.0.0" build_path="/67817/" >}}
 
 ### New
 
